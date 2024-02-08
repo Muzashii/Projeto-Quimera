@@ -1,6 +1,6 @@
 **Projeto Quimera: Inovação na Interação Homem-Máquina**
 ![image](https://github.com/Muzashii/Projeto-Quimera/assets/73591130/b8972006-5b31-47c8-a582-a728a45ca183)
-
+video demo (https://www.youtube.com/shorts/OmqVWciT-Vo)
 
 O Projeto Quimera é uma mão robótica sensoriada que redefine a experiência de interação entre humanos e máquinas. Utilizando visão computacional avançada, o Quimera replica em tempo real os movimentos dos dedos, pulso e cotovelo do usuário com notável precisão.
 
